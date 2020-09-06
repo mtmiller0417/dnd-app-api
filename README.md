@@ -1,2 +1,2 @@
 # dnd-app-api
-Interfaces with the database to manipulate data
+Interfaces with the database to read and write data
